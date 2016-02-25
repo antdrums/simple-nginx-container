@@ -6,3 +6,4 @@ If running locally, from the root folder, run :
 ```
 docker build --no-cache -t <username>/simple-nginx-container:<tag/version> .
 ```
+
